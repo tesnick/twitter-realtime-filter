@@ -49,6 +49,7 @@ public class Test {
         filtre.track(keywordsArray);
         twitterStream.filter(filtre);
 
+
 //        long[] users = new long[]{someid,someotherid,otherid};
 //        twitterStream.addListener(listener);
 //        FilterQuery filter = new FilterQuery();
